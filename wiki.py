@@ -29,7 +29,8 @@ root.minsize(800, 500)
 root.configure(bg=BG)
 
 # ---------- DATA FILE ----------
-data_dir = "/home/xyt564/Downloads/wiki"
+# Make sure to update this!!!!
+data_dir = "YOUR_FOLDER_LOCATION"
 os.makedirs(data_dir, exist_ok=True)
 wiki_file = os.path.join(data_dir, "wiki.json")
 if not os.path.exists(wiki_file):
