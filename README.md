@@ -62,6 +62,11 @@ data_dir = "/Users/yourname/Downloads/wiki"
 python wiki.py
 ```
 
+> The folder will be automatically created if it doesn’t exist.
+> The repository pre-includes a `wiki.json` file, the app will automatically find and use it. (Just make sure to change the data_dir)
+> Otherwise, it will create a new empty `wiki.json` file in your folder.
+
+
 ---
 
 ## Usage
