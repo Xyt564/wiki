@@ -1,52 +1,19 @@
 {
   "Zeus": {
     "content": "Zeus is the king of the Greek gods and ruler of Mount Olympus. He is the god of the sky, thunder, lightning, law, and order. As the son of Cronus and Rhea, Zeus led the Olympians in the battle against the Titans and established himself as the supreme deity. He wields the powerful thunderbolt, and his authority extends over gods and mortals alike. Zeus is known for his wisdom, justice, and sometimes impulsive temper, and he is central to countless myths involving both divine and human affairs.",
-    "tags": [
-      "sky",
-      "thunder",
-      "lightning",
-      "king",
-      "ruler",
-      "justice",
-      "authority",
-      "Olympus"
-    ]
+    "tags": ["sky", "thunder", "lightning", "king", "ruler", "justice", "authority", "Olympus"]
   },
   "Hera": {
     "content": "Hera is the queen of the gods and goddess of marriage, women, and family. She is the sister and wife of Zeus and is known for her regal demeanor and fierce protectiveness of her family and marital bonds. Hera is often depicted as majestic and solemn, yet she can be jealous and vengeful toward Zeus\u2019 numerous lovers and offspring. Despite this, she embodies the sacred aspects of marriage and the protection of women.",
-    "tags": [
-      "marriage",
-      "family",
-      "women",
-      "queen",
-      "protector",
-      "jealousy",
-      "motherhood"
-    ]
+    "tags": [ "marriage", "family", "women", "queen", "protector", "jealousy", "motherhood"]
   },
   "Poseidon": {
     "content": "Poseidon is the god of the sea, earthquakes, and horses. Brother to Zeus and Hades, he wields the trident, a symbol of his immense power. Poseidon is often depicted as a strong, bearded figure commanding the oceans and storms. Sailors and coastal communities revered him for his ability to bring safe passage or devastating tempests. He is also associated with horses and horsemanship, reflecting his influence over both land and sea.",
-    "tags": [
-      "sea",
-      "oceans",
-      "horses",
-      "earthquakes",
-      "storms",
-      "trident",
-      "power"
-    ]
+    "tags": ["sea", "oceans", "horses", "earthquakes", "storms", "trident", "power"]
   },
   "Demeter": {
     "content": "Demeter is the goddess of agriculture, fertility, and the harvest. She presides over the growth of crops and the cycles of nature, ensuring sustenance for humanity. As the mother of Persephone, she plays a central role in the myth explaining the seasons, her grief during Persephone\u2019s time in the underworld causing winter, and her joy upon her return bringing spring. Demeter embodies nurturing, abundance, and the essential bond between humans and the earth.",
-    "tags": [
-      "agriculture",
-      "harvest",
-      "fertility",
-      "crops",
-      "seasons",
-      "nature",
-      "mother"
-    ]
+    "tags": ["agriculture", "harvest", "fertility", "crops", "seasons", "nature", "mother"]
   },
   "Athena": {
     "content": "Athena is the goddess of wisdom, strategy, and warfare. Born fully grown and armored from the head of Zeus, she is a virgin goddess and the protector of cities, particularly Athens, which bears her name. Athena embodies intelligence, courage, and skill in battle, favoring strategic thinking over brute force. She is also associated with crafts, arts, and justice, often depicted with an owl and the aegis shield.",
