@@ -5,7 +5,7 @@
   },
   "Hera": {
     "content": "Hera is the queen of the gods and goddess of marriage, women, and family. She is the sister and wife of Zeus and is known for her regal demeanor and fierce protectiveness of her family and marital bonds. Hera is often depicted as majestic and solemn, yet she can be jealous and vengeful toward Zeus\u2019 numerous lovers and offspring. Despite this, she embodies the sacred aspects of marriage and the protection of women.",
-    "tags": [ "marriage", "family", "women", "queen", "protector", "jealousy", "motherhood"]
+    "tags": ["marriage", "family", "women", "queen", "protector", "jealousy", "motherhood"]
   },
   "Poseidon": {
     "content": "Poseidon is the god of the sea, earthquakes, and horses. Brother to Zeus and Hades, he wields the trident, a symbol of his immense power. Poseidon is often depicted as a strong, bearded figure commanding the oceans and storms. Sailors and coastal communities revered him for his ability to bring safe passage or devastating tempests. He is also associated with horses and horsemanship, reflecting his influence over both land and sea.",
@@ -17,597 +17,215 @@
   },
   "Athena": {
     "content": "Athena is the goddess of wisdom, strategy, and warfare. Born fully grown and armored from the head of Zeus, she is a virgin goddess and the protector of cities, particularly Athens, which bears her name. Athena embodies intelligence, courage, and skill in battle, favoring strategic thinking over brute force. She is also associated with crafts, arts, and justice, often depicted with an owl and the aegis shield.",
-    "tags": [
-      "wisdom",
-      "strategy",
-      "war",
-      "crafts",
-      "arts",
-      "justice",
-      "city",
-      "protector"
-    ]
+    "tags": ["wisdom", "strategy", "war", "crafts", "arts", "justice", "city", "protector"]
   },
   "Apollo": {
     "content": "Apollo is the god of the sun, music, poetry, prophecy, and healing. Son of Zeus and Leto, he is the twin brother of Artemis. Apollo is celebrated for his beauty, intellect, and artistic talent, often depicted playing the lyre. He serves as the oracle of Delphi, guiding mortals with his prophetic insights, and also brings health or disease, reflecting his dual powers over life and death.",
-    "tags": [
-      "sun",
-      "music",
-      "poetry",
-      "prophecy",
-      "healing",
-      "beauty",
-      "arts",
-      "twin"
-    ]
+    "tags": ["sun", "music", "poetry", "prophecy", "healing", "beauty", "arts", "twin"]
   },
   "Artemis": {
     "content": "Artemis is the goddess of the hunt, wilderness, and the moon. Twin sister of Apollo, she is a virgin goddess who values independence and protects wildlife and young women. Artemis wields a bow and arrows and is often accompanied by deer. She embodies the untamed aspects of nature, purity, and the protection of the vulnerable, while also maintaining fierce independence from male-dominated society.",
-    "tags": [
-      "hunt",
-      "wilderness",
-      "moon",
-      "virgin",
-      "wildlife",
-      "protector",
-      "independence"
-    ]
+    "tags": ["hunt", "wilderness", "moon", "virgin", "wildlife", "protector", "independence"]
   },
   "Ares": {
     "content": "Ares is the god of war, violence, and bloodshed. Son of Zeus and Hera, he represents the brutal and chaotic side of battle, unlike Athena, who embodies strategy. Ares thrives in the midst of combat and is often depicted as aggressive and relentless. Though feared and sometimes despised by other gods, he embodies courage, strength, and the raw power of conflict, playing a crucial role in the myths of heroism and warfare.",
-    "tags": [
-      "war",
-      "violence",
-      "bloodshed",
-      "courage",
-      "conflict",
-      "battle",
-      "chaos"
-    ]
+    "tags": ["war", "violence", "bloodshed", "courage", "conflict", "battle", "chaos"]
   },
   "Aphrodite": {
     "content": "Aphrodite is the goddess of love, beauty, desire, and fertility. Born from the sea foam, she enchants gods and mortals alike with her irresistible charm. Aphrodite symbolizes attraction, romance, and the generative forces of life. She is both compassionate and manipulative, capable of inspiring passion and chaos, and her myths often explore the powerful effects of desire and beauty on human and divine actions.",
-    "tags": [
-      "love",
-      "beauty",
-      "desire",
-      "fertility",
-      "romance",
-      "attraction",
-      "charm"
-    ]
+    "tags": ["love", "beauty", "desire", "fertility", "romance", "attraction", "charm"]
   },
   "Hephaestus": {
     "content": "Hephaestus is the god of fire, metalworking, and craftsmanship. Known as the divine blacksmith, he forges weapons, armor, and tools for gods and heroes alike. Despite his physical imperfection and lameness, Hephaestus is highly skilled, creative, and respected for his industriousness. He represents ingenuity, perseverance, and the transformative power of fire in shaping both art and technology.",
-    "tags": [
-      "fire",
-      "craftsmanship",
-      "metalwork",
-      "forge",
-      "weapons",
-      "creativity",
-      "skill"
-    ]
+    "tags": ["fire", "craftsmanship", "metalwork", "forge", "weapons", "creativity", "skill"]
   },
   "Hermes": {
     "content": "Hermes is the messenger of the gods, god of trade, travel, and thieves. Son of Zeus and Maia, he is known for his speed, wit, and cunning. Hermes guides souls to the underworld and serves as a mediator between mortals and gods. He carries the caduceus, a staff entwined with two snakes, and his playful, clever nature complements his serious duties, making him one of the most versatile Olympians.",
-    "tags": [
-      "messenger",
-      "trade",
-      "travel",
-      "thieves",
-      "speed",
-      "wit",
-      "guidance",
-      "caduceus"
-    ]
+    "tags": ["messenger", "trade", "travel", "thieves", "speed", "wit", "guidance", "caduceus"]
   },
   "Hestia": {
     "content": "Hestia is the goddess of the hearth, home, and domesticity. She maintains the sacred fire of Olympus and symbolizes family, domestic harmony, and stability. Hestia is gentle, modest, and non-confrontational, prioritizing peace and community over conflict. Though less prominent in myths, she is deeply respected as the protector of the home and family, embodying warmth, sanctuary, and continuity.",
-    "tags": [
-      "hearth",
-      "home",
-      "domesticity",
-      "family",
-      "sanctuary",
-      "stability",
-      "peace"
-    ]
+    "tags": ["hearth", "home", "domesticity", "family", "sanctuary", "stability", "peace"]
   },
   "Odin": {
     "content": "Odin, the Allfather, is the chief of the Aesir gods in Norse mythology. He is the god of wisdom, war, death, and magic, often depicted with one eye, having sacrificed the other for knowledge. Odin rules Asgard and commands immense power over gods and mortals. He is accompanied by his ravens Huginn and Muninn, who bring him information from the world. Known for his relentless pursuit of knowledge, Odin embodies authority, foresight, and the mysteries of fate.",
-    "tags": [
-      "wisdom",
-      "war",
-      "death",
-      "magic",
-      "ruler",
-      "Asgard",
-      "Allfather"
-    ]
+    "tags": ["wisdom", "war", "death", "magic", "ruler", "Asgard", "Allfather"]
   },
   "Frigg": {
     "content": "Frigg is the goddess of marriage, motherhood, and prophecy, and the wife of Odin. She is revered for her domestic wisdom, protection of family, and ability to foresee the future. Frigg embodies the sanctity of home and family life, balancing her prophetic insight with nurturing care. She is often depicted as serene and majestic, a symbol of loyalty, foresight, and maternal strength.",
-    "tags": [
-      "marriage",
-      "motherhood",
-      "prophecy",
-      "wife",
-      "Asgard",
-      "domesticity"
-    ]
+    "tags": ["marriage", "motherhood", "prophecy", "wife", "Asgard", "domesticity"]
   },
   "Thor": {
     "content": "Thor is the god of thunder, strength, and protection, wielding the mighty hammer Mjolnir. He is a heroic figure who defends gods and humans from giants and chaos. Thor represents courage, endurance, and the power of nature, often depicted with red hair and a fierce expression. Beloved among the Norse, he embodies both raw power and steadfast reliability.",
-    "tags": [
-      "thunder",
-      "strength",
-      "storms",
-      "protection",
-      "hammer",
-      "Mjolnir",
-      "courage"
-    ]
+    "tags": ["thunder", "strength", "storms", "protection", "hammer", "Mjolnir", "courage"]
   },
   "Loki": {
     "content": "Loki is the trickster god of mischief, fire, and chaos. Known for his cunning and shape-shifting abilities, Loki is both a helper and a hindrance to the gods. He embodies unpredictability, cleverness, and transformation. Despite his mischievous and often malevolent actions, Loki plays a central role in many Norse myths, influencing both triumphs and disasters.",
-    "tags": [
-      "trickster",
-      "mischief",
-      "chaos",
-      "fire",
-      "cunning",
-      "shapeshifter",
-      "Loki"
-    ]
+    "tags": ["trickster", "mischief", "chaos", "fire", "cunning", "shapeshifter", "Loki"]
   },
   "Baldr": {
     "content": "Baldr is the god of light, beauty, love, and purity. Loved by all gods and mortals, he symbolizes peace and perfection. His tragic death, caused by Loki\u2019s trickery, sets into motion events leading to Ragnarok. Baldr embodies innocence, hope, and the gentle, harmonious aspects of life and divinity.",
-    "tags": [
-      "light",
-      "beauty",
-      "love",
-      "purity",
-      "peace",
-      "beloved"
-    ]
+    "tags": ["light", "beauty", "love", "purity", "peace", "beloved"]
   },
   "Tyr": {
     "content": "Tyr is the god of law, justice, and heroic glory. Brave and honorable, he is best known for sacrificing his hand to bind the wolf Fenrir. Tyr embodies courage, integrity, and moral authority. He represents the ideals of heroism and the rule of law in Norse society.",
-    "tags": [
-      "law",
-      "justice",
-      "courage",
-      "heroism",
-      "war",
-      "honor"
-    ]
+    "tags": ["law", "justice", "courage", "heroism", "war", "honor"]
   },
   "Heimdall": {
     "content": "Heimdall is the vigilant guardian of Bifrost, the rainbow bridge connecting Asgard to Midgard. Known for his keen senses and foresight, he protects the gods from impending danger. Heimdall embodies alertness, loyalty, and the steadfast defense of order and harmony.",
-    "tags": [
-      "guard",
-      "vigilance",
-      "foresight",
-      "protection",
-      "Bifrost",
-      "watchfulness"
-    ]
+    "tags": ["guard", "vigilance", "foresight", "protection", "Bifrost", "watchfulness"]
   },
   "Freyr": {
     "content": "Freyr is the god of fertility, prosperity, and peace. He governs sunlight, rain, and the abundance of crops. Revered for his generosity and ability to sustain life, Freyr embodies growth, harmony, and the blessings of nature. He is often invoked for fertility and successful harvests.",
-    "tags": [
-      "fertility",
-      "prosperity",
-      "peace",
-      "sunlight",
-      "crops",
-      "abundance"
-    ]
+    "tags": ["fertility", "prosperity", "peace", "sunlight", "crops", "abundance"]
   },
   "Freyja": {
     "content": "Freyja is the goddess of love, beauty, war, and death. She possesses magical powers, including seidr (sorcery), and leads the Valkyries who choose slain warriors. Freyja symbolizes desire, fertility, courage, and the mystical aspects of life and death, bridging passion with the divine.",
-    "tags": [
-      "love",
-      "beauty",
-      "war",
-      "death",
-      "magic",
-      "fertility",
-      "Valkyrie"
-    ]
+    "tags": ["love", "beauty", "war", "death", "magic", "fertility", "Valkyrie"]
   },
   "Skadi": {
     "content": "Skadi is the goddess of winter, mountains, and hunting. Independent and fierce, she embodies resilience, skill, and connection to the natural world. Skadi represents the challenges and beauty of winter, the wild outdoors, and the spirit of self-reliance and strength.",
-    "tags": [
-      "winter",
-      "mountains",
-      "hunting",
-      "skiing",
-      "cold",
-      "nature",
-      "independence"
-    ]
+    "tags": ["winter", "mountains", "hunting", "skiing", "cold", "nature", "independence"]
   },
   "Huitzilopochtli": {
     "content": "Huitzilopochtli is the god of the sun and war, and the patron deity of the Mexica people. He is depicted as a fierce warrior guiding his followers in battle and commanding the sun across the sky. Huitzilopochtli represents strength, conquest, and divine authority, and was central to Aztec rituals and sacrifices.",
-    "tags": [
-      "sun",
-      "war",
-      "patron",
-      "Mexica",
-      "battle",
-      "sacrifice",
-      "power"
-    ]
+    "tags": ["sun", "war", "patron", "Mexica", "battle", "sacrifice", "power"]
   },
   "Quetzalcoatl": {
     "content": "Quetzalcoatl, the feathered serpent god, is associated with wind, learning, and creation. He represents wisdom, culture, and civilization, bringing knowledge and arts to humanity. Quetzalcoatl embodies balance, generosity, and the harmony between earthly and divine realms.",
-    "tags": [
-      "wind",
-      "learning",
-      "creation",
-      "wisdom",
-      "serpent",
-      "culture",
-      "knowledge"
-    ]
+    "tags": ["wind", "learning", "creation", "wisdom", "serpent", "culture", "knowledge"]
   },
   "Tezcatlipoca": {
     "content": "Tezcatlipoca is the god of night, magic, judgment, and destiny. Known as the \u2018Smoking Mirror,\u2019 he can see all and influence fate. Tezcatlipoca embodies power, mystery, and the duality of creation and destruction, often challenging mortals and gods alike.",
-    "tags": [
-      "night",
-      "magic",
-      "judgment",
-      "destiny",
-      "power",
-      "change",
-      "fate"
-    ]
+    "tags": ["night", "magic", "judgment", "destiny", "power", "change", "fate"]
   },
   "Tlaloc": {
     "content": "Tlaloc is the god of rain, water, fertility, and storms. He controls rainfall and agricultural abundance, vital for the survival of the Aztec people. Tlaloc embodies life-giving forces, nourishment, and the cycles of nature, as well as fearsome power over floods and storms.",
-    "tags": [
-      "rain",
-      "water",
-      "fertility",
-      "storms",
-      "agriculture",
-      "crops",
-      "weather"
-    ]
+    "tags": ["rain", "water", "fertility", "storms", "agriculture", "crops", "weather"]
   },
   "Xipe Totec": {
     "content": "Xipe Totec is the god of agriculture, seasons, and renewal. Associated with fertility and life cycles, he symbolizes growth through sacrifice and transformation. Xipe Totec embodies regeneration, abundance, and the renewal of nature.",
-    "tags": [
-      "agriculture",
-      "seasons",
-      "renewal",
-      "sacrifice",
-      "crops",
-      "rebirth"
-    ]
+    "tags": ["agriculture", "seasons", "renewal", "sacrifice", "crops", "rebirth"]
   },
   "Coatlicue": {
     "content": "Coatlicue, the earth mother goddess, embodies life, death, and fertility. She is depicted with a skirt of snakes and a necklace of hearts, symbolizing creation and destruction. Coatlicue represents the cyclical nature of existence and the power of the earth to nurture and consume.",
-    "tags": [
-      "earth",
-      "mother",
-      "life",
-      "death",
-      "fertility",
-      "creation"
-    ]
+    "tags": ["earth", "mother", "life", "death", "fertility", "creation"]
   },
   "Brahma": {
     "content": "Brahma is the creator god in Hinduism, responsible for the creation of the universe. He embodies knowledge, wisdom, and cosmic order. Often depicted with four faces and seated on a lotus, Brahma\u2019s creative power sustains life and the divine balance of existence.",
-    "tags": [
-      "creation",
-      "universe",
-      "wisdom",
-      "knowledge",
-      "creator"
-    ]
+    "tags": ["creation", "universe", "wisdom", "knowledge", "creator"]
   },
   "Vishnu": {
     "content": "Vishnu is the preserver god, maintaining the balance and order of the universe. He manifests through various avatars, such as Rama and Krishna, to protect the world from chaos. Vishnu embodies mercy, protection, and the sustaining power of the cosmos.",
-    "tags": [
-      "preservation",
-      "protection",
-      "avatars",
-      "balance",
-      "sustenance"
-    ]
+    "tags": ["preservation", "protection", "avatars", "balance", "sustenance"]
   },
   "Shiva": {
     "content": "Shiva is the god of destruction and transformation, governing cosmic energy, meditation, and time. He embodies both the end and renewal of life, often depicted in deep meditation or performing the cosmic dance, Tandava. Shiva represents change, spiritual growth, and the power of destruction for rebirth.",
-    "tags": [
-      "destruction",
-      "transformation",
-      "meditation",
-      "cosmic",
-      "time",
-      "energy"
-    ]
+    "tags": ["destruction", "transformation", "meditation", "cosmic", "time", "energy"]
   },
   "Lakshmi": {
     "content": "Lakshmi is the goddess of wealth, fortune, and prosperity. She embodies beauty, abundance, and generosity, blessing devotees with material and spiritual riches. Lakshmi is often depicted with gold coins flowing from her hands, symbolizing endless prosperity and well-being.",
-    "tags": [
-      "wealth",
-      "fortune",
-      "prosperity",
-      "abundance",
-      "beauty"
-    ]
+    "tags": ["wealth", "fortune", "prosperity", "abundance", "beauty"]
   },
   "Saraswati": {
     "content": "Saraswati is the goddess of knowledge, learning, arts, and wisdom. She inspires creativity, education, and the pursuit of enlightenment. Saraswati is depicted with a veena and sacred texts, symbolizing mastery of music, literature, and intellectual development.",
-    "tags": [
-      "knowledge",
-      "learning",
-      "arts",
-      "wisdom",
-      "education",
-      "creativity"
-    ]
+    "tags": ["knowledge", "learning", "arts", "wisdom", "education", "creativity"]
   },
   "Parvati": {
     "content": "Parvati is the mother goddess, goddess of love, fertility, and devotion. She embodies nurturing, strength, and family harmony. As Shiva\u2019s consort, Parvati represents the balance of power, gentleness, and the sustaining forces of domestic and cosmic life.",
-    "tags": [
-      "mother",
-      "love",
-      "fertility",
-      "devotion",
-      "family",
-      "strength"
-    ]
+    "tags": ["mother", "love", "fertility", "devotion", "family", "strength"]
   },
   "Ganesha": {
     "content": "Ganesha, the elephant-headed god, is the remover of obstacles and god of beginnings and wisdom. He blesses new ventures and intellectual pursuits, embodying intelligence, cleverness, and divine guidance. Ganesha is beloved for his benevolence and ability to help devotees overcome challenges.",
-    "tags": [
-      "beginnings",
-      "wisdom",
-      "obstacles",
-      "remover",
-      "success",
-      "intellect"
-    ]
+    "tags": ["beginnings", "wisdom", "obstacles", "remover", "success", "intellect"]
   },
   "Hanuman": {
     "content": "Hanuman is the monkey god of strength, devotion, courage, and service. Known for his loyalty to Lord Rama, Hanuman embodies selflessness, bravery, and perseverance. He represents the ideal devotee, combining might with intelligence and unwavering dedication.",
-    "tags": [
-      "strength",
-      "devotion",
-      "courage",
-      "loyalty",
-      "service",
-      "heroism"
-    ]
+    "tags": ["strength", "devotion", "courage", "loyalty", "service", "heroism"]
   },
   "Jade Emperor": {
     "content": "The Jade Emperor, or Yu Huang, is the supreme god in Chinese mythology, ruler of Heaven and all other deities. He oversees cosmic order, justice, and the natural world, embodying authority, fairness, and divine governance. Revered as the ultimate ruler, he maintains harmony among gods and humans.",
-    "tags": [
-      "supreme",
-      "heaven",
-      "ruler",
-      "creation",
-      "law",
-      "authority"
-    ]
+    "tags": ["supreme", "heaven", "ruler", "creation", "law", "authority"]
   },
   "Guanyin": {
     "content": "Guanyin is the goddess of mercy, compassion, and kindness. She protects the vulnerable, offers guidance, and embodies empathy and spiritual aid. Guanyin is often depicted as serene and approachable, symbolizing boundless compassion and the protection of all living beings.",
-    "tags": [
-      "mercy",
-      "compassion",
-      "kindness",
-      "protection",
-      "healing"
-    ]
+    "tags": ["mercy", "compassion", "kindness", "protection", "healing"]
   },
   "Nezha": {
     "content": "Nezha is a youthful warrior deity, protector of the people, and god of rebellion. Known for his courage and skill in battle, Nezha fights against injustice and embodies perseverance, loyalty, and youthful energy. He is often depicted riding on fiery wheels or wielding magical weapons.",
-    "tags": [
-      "protection",
-      "youth",
-      "warrior",
-      "courage",
-      "rebellion"
-    ]
+    "tags": ["protection", "youth", "warrior", "courage", "rebellion"]
   },
   "Fuxi": {
     "content": "Fuxi is a culture hero and creator deity in Chinese mythology. He taught humans essential skills such as fishing, hunting, and writing. Fuxi embodies civilization, knowledge, and the advancement of society, bridging divine insight with practical human wisdom.",
-    "tags": [
-      "creation",
-      "civilization",
-      "knowledge",
-      "culture",
-      "teaching"
-    ]
+    "tags": ["creation", "civilization", "knowledge", "culture", "teaching"]
   },
   "Zhurong": {
     "content": "Zhurong is the god of fire and the south, associated with strength, energy, and passion. He controls flames and symbolizes vitality, courage, and the transformative power of fire. Zhurong embodies the elemental force of fire and its role in sustaining and challenging life.",
-    "tags": [
-      "fire",
-      "strength",
-      "energy",
-      "south",
-      "power"
-    ]
+    "tags": ["fire", "strength", "energy", "south", "power"]
   },
   "Minotaur": {
     "content": "The Minotaur is a mythical creature with the body of a man and the head of a bull, dwelling in the Labyrinth on Crete. It was eventually slain by the hero Theseus. The Minotaur symbolizes human savagery and the challenge of confronting one\u2019s inner beasts.",
-    "tags": [
-      "bull",
-      "labyrinth",
-      "Crete",
-      "Theseus",
-      "mythical creature",
-      "monster"
-    ]
+    "tags": ["bull", "labyrinth", "Crete", "Theseus", "mythical creature", "monster"]
   },
   "Cerberus": {
     "content": "Cerberus is the three-headed dog that guards the entrance to the Underworld, preventing the dead from leaving. Often depicted as fierce and loyal to Hades, Cerberus represents the boundary between life and death.",
-    "tags": [
-      "underworld",
-      "dog",
-      "Hades",
-      "guardian",
-      "three-headed",
-      "mythical creature"
-    ]
+    "tags": ["underworld", "dog", "Hades", "guardian", "three-headed", "mythical creature"]
   },
   "Hydra": {
     "content": "The Hydra is a serpentine water monster with multiple heads, where cutting off one head causes two more to grow. It was slain by Heracles as part of his labors. The Hydra symbolizes challenges that multiply when confronted recklessly.",
-    "tags": [
-      "serpent",
-      "monster",
-      "Heracles",
-      "labors",
-      "multi-headed",
-      "mythical creature"
-    ]
+    "tags": ["serpent", "monster", "Heracles", "labors", "multi-headed", "mythical creature"]
   },
   "Pegasus": {
     "content": "Pegasus is the winged divine horse, born from the blood of Medusa. Symbolizing inspiration, poetry, and heroism, Pegasus assisted heroes like Bellerophon in their adventures.",
-    "tags": [
-      "winged horse",
-      "Medusa",
-      "Bellerophon",
-      "inspiration",
-      "mythical creature",
-      "heroism"
-    ]
+    "tags": ["winged horse", "Medusa", "Bellerophon", "inspiration", "mythical creature", "heroism"]
   },
   "Fenrir": {
     "content": "Fenrir is a monstrous wolf prophesied to bring about great destruction during Ragnarok. Bound by the gods due to his immense strength and ferocity, Fenrir represents chaos and inevitable fate.",
-    "tags": [
-      "wolf",
-      "Ragnarok",
-      "chaos",
-      "mythical creature",
-      "destruction"
-    ]
+    "tags": ["wolf", "Ragnarok", "chaos", "mythical creature", "destruction"]
   },
   "Jormungandr": {
     "content": "Jormungandr, the Midgard Serpent, encircles the world and is destined to fight Thor during Ragnarok. Its immense size symbolizes the inescapable power of nature and fate.",
-    "tags": [
-      "serpent",
-      "Midgard",
-      "Ragnarok",
-      "Thor",
-      "mythical creature",
-      "nature"
-    ]
+    "tags": ["serpent", "Midgard", "Ragnarok", "Thor", "mythical creature", "nature"]
   },
   "Sleipnir": {
     "content": "Sleipnir is Odin\u2019s eight-legged horse, known for incredible speed and agility. Born of Loki in horse form, Sleipnir embodies strength, travel, and divine assistance.",
-    "tags": [
-      "horse",
-      "Odin",
-      "eight-legged",
-      "speed",
-      "mythical creature",
-      "divine"
-    ]
+    "tags": ["horse", "Odin", "eight-legged", "speed", "mythical creature", "divine"]
   },
   "Asgard": {
     "content": "Asgard is the realm of the Aesir gods in Norse mythology, connected to Midgard by the rainbow bridge Bifrost. It represents divine order, protection, and the seat of the gods\u2019 power.",
-    "tags": [
-      "Norse",
-      "Aesir",
-      "realm",
-      "gods",
-      "Bifrost",
-      "mythical place"
-    ]
+    "tags": ["Norse", "Aesir", "realm", "gods", "Bifrost", "mythical place"]
   },
   "Tamoanchan": {
     "content": "Tamoanchan is a mythological paradise in Aztec mythology, believed to be the birthplace of gods and humans. It represents creation, fertility, and the sacred origins of life.",
-    "tags": [
-      "Aztec",
-      "paradise",
-      "creation",
-      "birthplace",
-      "mythical place"
-    ]
+    "tags": ["Aztec", "paradise", "creation", "birthplace", "mythical place"]
   },
   "Odyssey": {
     "content": "The Odyssey is an epic Greek tale recounting Odysseus\u2019 long journey home after the Trojan War. It highlights themes of perseverance, cunning, divine intervention, and human struggle.",
-    "tags": [
-      "Greek",
-      "epic",
-      "Odysseus",
-      "journey",
-      "myth",
-      "adventure"
-    ]
+    "tags": ["Greek", "epic", "Odysseus", "journey", "myth", "adventure"]
   },
   "Ragnarok": {
     "content": "Ragnarok is the Norse prophecy of the end of the world, featuring a great battle where many gods perish. It represents the cyclical nature of destruction and renewal in Norse mythology.",
-    "tags": [
-      "Norse",
-      "end times",
-      "battle",
-      "gods",
-      "prophecy",
-      "myth"
-    ]
+    "tags": ["Norse", "end times", "battle", "gods", "prophecy", "myth"]
   },
   "Mjolnir": {
     "content": "Mjolnir is Thor\u2019s hammer, a symbol of strength, protection, and blessing. It is revered as a divine weapon capable of devastating foes and empowering allies.",
-    "tags": [
-      "Norse",
-      "Thor",
-      "hammer",
-      "weapon",
-      "strength",
-      "protection"
-    ]
+    "tags": ["Norse", "Thor", "hammer", "weapon", "strength", "protection"]
   },
   "Panathenaea": {
     "content": "The Panathenaea was an ancient Greek festival celebrating Athena, featuring games, sacrifices, and processions. It honored the goddess of wisdom and civic unity.",
-    "tags": [
-      "Greek",
-      "festival",
-      "Athena",
-      "games",
-      "sacrifice",
-      "celebration"
-    ]
+    "tags": ["Greek", "festival", "Athena", "games", "sacrifice", "celebration"]
   },
   "Diwali": {
     "content": "Diwali, the Hindu festival of lights, celebrates the victory of light over darkness, knowledge over ignorance, and good over evil. It is marked by lighting lamps, family gatherings, and worship of Lakshmi.",
-    "tags": [
-      "Hindu",
-      "festival",
-      "lights",
-      "celebration",
-      "Lakshmi",
-      "tradition"
-    ]
+    "tags": ["Hindu", "festival", "lights", "celebration", "Lakshmi", "tradition"]
   },
   "Zeus Thunderbolt": {
     "content": "The thunderbolt is Zeus\u2019 signature weapon, symbolizing authority, power, and divine justice. It was used to enforce the will of the king of gods in Greek mythology.",
-    "tags": [
-      "Greek",
-      "Zeus",
-      "thunderbolt",
-      "weapon",
-      "power",
-      "symbol"
-    ]
+    "tags": ["Greek", "Zeus", "thunderbolt", "weapon", "power", "symbol"]
   },
   "Mount Olympus": {
     "content": "Mount Olympus is the mythical home of the Greek gods, a place of divine splendor and power. It symbolizes the connection between gods and humans and is depicted as a majestic, unreachable mountain.",
-    "tags": [
-      "Greece",
-      "Olympus",
-      "home",
-      "gods",
-      "mountain",
-      "mythical place"
-    ]
+    "tags": ["Greece", "Olympus", "home", "gods", "mountain", "mythical place"]
   },
   "Delphi": {
     "content": "The Oracle of Delphi was considered the most important prophetic site in ancient Greece, where the priestess Pythia would give cryptic predictions.",
