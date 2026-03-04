@@ -5,31 +5,26 @@ import os
 import threading
 import time
 
-# ---------- CONFIG ----------
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("dark-blue")
 
-# ---------- COLORS & TYPOGRAPHY ----------
-BG = "#1a1d23"          # deep charcoal background
-PANEL = "#22262e"       # elegant slate panel
-PANEL_ALT = "#2a2f38"   # refined side panel
-BUTTON_BG = "#6366f1"   # modern indigo button
-BUTTON_HOVER = "#4f46e5" # deeper indigo hover
-ACCENT = "#06b6d4"      # sleek cyan accent
-TEXT = "#f8fafc"        # crisp white text
-TEXT_BORDER = "#475569" # sophisticated slate border
+BG = "#1a1d23"
+PANEL = "#22262e"
+PANEL_ALT = "#2a2f38"
+BUTTON_BG = "#6366f1"
+BUTTON_HOVER = "#4f46e5"
+ACCENT = "#06b6d4"
+TEXT = "#f8fafc"
+TEXT_BORDER = "#475569"
 FONT_TITLE = ("Arial", 18, "bold")
 FONT_REG = ("Arial", 15, "bold")
 
-# ---------- WINDOW ----------
 root = ctk.CTk()
 root.title("Local Wiki")
 root.geometry("1000x620")
 root.minsize(800, 500)
 root.configure(bg=BG)
 
-# ---------- DATA FILE ----------
-# Make sure to update this!!!!
 data_dir = "YOUR_FOLDER_LOCATION"
 os.makedirs(data_dir, exist_ok=True)
 wiki_file = os.path.join(data_dir, "wiki.json")
@@ -37,7 +32,6 @@ if not os.path.exists(wiki_file):
     with open(wiki_file, "w") as f:
         json.dump({}, f)
 
-# ---------- HELPERS ----------
 def load_data():
     try:
         with open(wiki_file, "r") as f:
@@ -55,8 +49,6 @@ def flash_status(msg, duration=1.6):
         time.sleep(duration)
         export_label.configure(text="")
     threading.Thread(target=clear, daemon=True).start()
-
-# ---------- CORE FUNCTIONS ----------
 
 def save_note():
     title = title_entry.get().strip()
@@ -122,14 +114,12 @@ def on_search(event=None):
     q = search_entry.get().strip()
     refresh_notes(q)
 
-# ---------- LAYOUT ----------
 outer = ctk.CTkFrame(root, fg_color=BG, corner_radius=0)
 outer.pack(fill="both", expand=True, padx=12, pady=12)
 
 main = ctk.CTkFrame(outer, fg_color=PANEL, corner_radius=14)
 main.pack(fill="both", expand=True, padx=6, pady=6)
 
-# Left column
 left = ctk.CTkFrame(main, fg_color=PANEL_ALT, corner_radius=12)
 left.place(relx=0.02, rely=0.03, relwidth=0.28, relheight=0.84)
 
@@ -147,7 +137,6 @@ listbox.pack(side="left", fill="both", expand=True, padx=(8,0), pady=8)
 listbox_scroll.pack(side="right", fill="y", padx=(0,8), pady=8)
 listbox.bind("<<ListboxSelect>>", on_select)
 
-# Right column
 right = ctk.CTkFrame(main, fg_color=PANEL, corner_radius=14)
 right.place(relx=0.315, rely=0.03, relwidth=0.67, relheight=0.84)
 
@@ -163,7 +152,6 @@ content_container.pack(padx=14, pady=(0,10), fill="both", expand=True)
 content_text = ctk.CTkTextbox(content_container, corner_radius=12, fg_color=PANEL, width=640, height=360, font=("Arial", 15, "bold"), text_color=TEXT, border_width=1, border_color=TEXT_BORDER)
 content_text.pack(fill="both", expand=True, padx=10, pady=10)
 
-# Bottom control bar
 bottom = ctk.CTkFrame(outer, fg_color=BG, corner_radius=0)
 bottom.pack(fill="x", side="bottom", pady=(10,0), ipady=8)
 
@@ -182,6 +170,5 @@ export_button.grid(row=0, column=3, padx=8, pady=8)
 export_label = ctk.CTkLabel(bottom, text="", anchor="e", font=FONT_REG, text_color=TEXT, fg_color=BG)
 export_label.grid(row=0, column=4, sticky="e", padx=(4,16))
 
-# Initialize
 refresh_notes()
 root.mainloop()
